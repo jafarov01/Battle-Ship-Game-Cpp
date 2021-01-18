@@ -1,3 +1,12 @@
+/* 
+*   Copyright (C) 2017-12?? Makhlug Jafarov
+*
+*   This code is made by Me, just as simple as shown below. You can freely take this code and modify if necessary. Glad this code will help you. Regards!
+    
+    //github.com/jafarov01
+    //https://www.linkedin.com/in/jafarov01/
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <windows.h>
